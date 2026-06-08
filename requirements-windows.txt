@@ -1,0 +1,6 @@
+# Pre-built InsightFace wheel for Windows (avoids "Microsoft Visual C++ 14.0 required" error).
+# Use after: pip install -r requirements.txt
+# Pick the URL matching your Python version from:
+#   https://huggingface.co/ussoewwin/Insightface_for_windows/tree/main
+# Python 3.13:
+https://huggingface.co/ussoewwin/Insightface_for_windows/resolve/main/insightface-0.7.3-cp313-cp313-win_amd64.whl

@@ -1,0 +1,13 @@
+# Webcam Face Recognition with ArcFace (InsightFace)
+# Python 3.8+ recommended
+
+# Core deps (install these first).
+# Use opencv-python (with GUI for cv2.imshow). Do NOT use opencv-python-headless.
+opencv-python>=4.8.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+onnxruntime>=1.15.0
+
+# InsightFace: on Windows, install from pre-built wheel to avoid C++ build.
+# After: pip install -r requirements.txt
+# run: pip install -r requirements-windows.txt

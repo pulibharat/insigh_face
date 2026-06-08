@@ -1,0 +1,17 @@
+# Ignore known face images and detected face captures
+known_faces/
+detected face/
+
+# Ignore generated face database files
+face_embeddings.npy
+face_names.json
+
+# Ignore Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code workspace settings
+.vscode/
